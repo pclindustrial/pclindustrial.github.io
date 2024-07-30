@@ -1,0 +1,14 @@
+{
+    "CableNumber": "07MKE01GH013-DS331",
+    "SourceTag": "07MKE01GH013",
+    "DestinationTag": "02CHC00GH001",
+    "CableDescription": "1-4/C#14AWG",
+    "CableType": "CEV1A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "164.17 m",
+    "EstimatedLength": "218.0 m",
+    "Route": "01TC001, 1EDB09F08, 1EDB07D06, 1EDB02H09, 7EDB01C01, 2EDB07F03, 2EDB06D06, 02TC037",
+    "Date Processed": "2024-07-29 20:02:56.107684",
+    "Source GeoLocation": "Longitude: -114.30845567442238, Latitude: 53.34428353734123",
+    "Target GeoLocation": "Longitude: -114.30885856078493, Latitude: 53.34339288832865"
+}

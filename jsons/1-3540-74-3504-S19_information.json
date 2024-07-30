@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-3540-74-3504-S19",
+    "SourceTag": "01-7322-PNL-2000",
+    "DestinationTag": "01-3540-DS-3002",
+    "CableDescription": "1-3/C#8AWG W/GND",
+    "CableType": "SEV2A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "26.14 m",
+    "EstimatedLength": "24.0 m",
+    "Route": "01TS038, 01TS041, 01TS042",
+    "Date Processed": "2024-07-29 21:03:49.478535",
+    "Source GeoLocation": "Longitude: -114.30733079409978, Latitude: 53.34413923612259",
+    "Target GeoLocation": "Longitude: -114.30710106893204, Latitude: 53.34412998196426"
+}

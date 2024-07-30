@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-3441-74-3500-C03",
+    "SourceTag": "01-3441-HR-3002",
+    "DestinationTag": "01-5320-PNL-2004",
+    "CableDescription": "1-4/C#14AWG",
+    "CableType": "CEV1A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "57.17 m",
+    "EstimatedLength": "66.0 m",
+    "Route": "01TC023, 01TC021, 01TC020, 01TC018, 01TC016, 01TC072",
+    "Date Processed": "2024-07-29 20:38:34.878314",
+    "Source GeoLocation": "Longitude: -114.30739739374911, Latitude: 53.34418609584937",
+    "Target GeoLocation": "Longitude: -114.30766834119588, Latitude: 53.344213285513156"
+}

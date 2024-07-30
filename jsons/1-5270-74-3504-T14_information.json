@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-5270-74-3504-T14",
+    "SourceTag": "01-5270-JB-2004",
+    "DestinationTag": "01-5214-TE-2321",
+    "CableDescription": "1-1PR#16AWG",
+    "CableType": "TCE1A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "112.89 m",
+    "EstimatedLength": "123.0 m",
+    "Route": "01TI027, 01TI018, 01TI081, 01TI080",
+    "Date Processed": "2024-07-30 04:53:29.104226",
+    "Source GeoLocation": "Longitude: -114.3073405233505, Latitude: 53.34411539227471",
+    "Target GeoLocation": "Longitude: -114.30754055492862, Latitude: 53.344009107476616"
+}

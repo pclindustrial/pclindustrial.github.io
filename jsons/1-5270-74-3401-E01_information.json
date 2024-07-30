@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-5270-74-3401-E01",
+    "SourceTag": "01-7510-PNL-3000",
+    "DestinationTag": "01-5270-LTG-2001",
+    "CableDescription": "1-2/C#10AWG W/GND",
+    "CableType": "SEV2A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "144.57 m",
+    "EstimatedLength": "180.0 m",
+    "Route": "01TS063, 01TS069, 1EDB01C03, 1EDB03G08, 1EDB04E02, 01TS020",
+    "Date Processed": "2024-07-30 01:11:10.794484",
+    "Source GeoLocation": "Longitude: -114.30896366244954, Latitude: 53.34392293783359",
+    "Target GeoLocation": "Longitude: -114.30775106999167, Latitude: 53.34400609486583"
+}

@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-5261-74-3502-C28",
+    "SourceTag": "01-5310-PNL-2000",
+    "DestinationTag": "01-5261-JB-2022",
+    "CableDescription": "1-50/C#14AWG",
+    "CableType": "CEV1A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "40.47 m",
+    "EstimatedLength": "46.0 m",
+    "Route": "01TC075, 01TC076, 01TC079",
+    "Date Processed": "2024-07-30 00:07:48.892603",
+    "Source GeoLocation": "Longitude: -114.30766647471637, Latitude: 53.34424217884467",
+    "Target GeoLocation": "Longitude: -114.30749492566547, Latitude: 53.34411137230853"
+}

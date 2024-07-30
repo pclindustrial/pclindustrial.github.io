@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-3600-74-3500-E01",
+    "SourceTag": "01-7510-PNL-3000",
+    "DestinationTag": "01-3600-PNL-2000",
+    "CableDescription": "1-2/C#12AWG W/GND",
+    "CableType": "SEV2A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "36.17 m",
+    "EstimatedLength": "44.0 m",
+    "Route": "01TS061, 01TS067",
+    "Date Processed": "2024-07-29 21:18:37.242792",
+    "Source GeoLocation": "Longitude: -114.30896366244954, Latitude: 53.34392293783359",
+    "Target GeoLocation": "Longitude: -114.30878997637498, Latitude: 53.343861571012106"
+}

@@ -1,0 +1,14 @@
+{
+    "CableNumber": "1-1526-73-3200-S06",
+    "SourceTag": "01-7322-PNL-3000",
+    "DestinationTag": "01-1526-RE-3003",
+    "CableDescription": "1-3/C#4AWG W/GND",
+    "CableType": "SEV2A",
+    "PathType": "Engineered",
+    "GeometricCableLength": "163.16 m",
+    "EstimatedLength": "197.0 m",
+    "Route": "01TS060, 01TS063, 01TS069, 1EDB01C03, 1EDB03G08, 1EDB04E02, 01TS020",
+    "Date Processed": "2024-07-29 20:30:46.910344",
+    "Source GeoLocation": "Longitude: -114.30890103085675, Latitude: 53.34392089509116",
+    "Target GeoLocation": "Longitude: -114.30756764291374, Latitude: 53.344065520984934"
+}
